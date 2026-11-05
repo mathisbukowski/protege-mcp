@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<plugin>
+    <extension id="ProtegeMcpHook" point="org.protege.editor.core.application.EditorKitHook">
+        <class value="dev.protegemcp.ProtegeMcpHook"/>
+        <editorKitId value="OWLEditorKit"/>
+    </extension>
+</plugin>
